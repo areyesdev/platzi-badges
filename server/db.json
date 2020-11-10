@@ -6,7 +6,7 @@
       "lastName": "Grady",
       "email": "Leann_Berge@gmail.com",
       "jobTitle": "Legacy Brand Director",
-      "twitter": "FredaGrady22221-7573",
+      "twitter": "FredaGrady",
       "avatarUrl": "https://www.gravatar.com/avatar/f63a9c45aca0e7e7de0782a6b1dff40b?d=identicon"
     },
     {
@@ -440,6 +440,33 @@
       "jobTitle": "Lawyer",
       "twitter": "ckaufmanpr",
       "id": "npaYZKI"
+    },
+    {
+      "firstName": "Andres",
+      "lastName": "Reyes",
+      "email": "areyesdev@gmail.com",
+      "jobTitle": "FrontEnd Developer",
+      "twitter": "areyesdev",
+      "avatarUrl": "https://www.gravatar.com/avatar/60faaf309bc72b8794c77433e118e252?d=identicon",
+      "id": "hF9Bzkb"
+    },
+    {
+      "firstName": "Maricel",
+      "lastName": "Reyes",
+      "email": "pentestknight@gmail.com",
+      "jobTitle": "FrontEnd Developer",
+      "twitter": "mreyes",
+      "avatarUrl": "https://www.gravatar.com/avatar/0a9a5b4cf9a31b220883083685a50bac?d=identicon",
+      "id": "_G647ek"
+    },
+    {
+      "firstName": "Andres",
+      "lastName": "Fontecha",
+      "email": "andresreyesweb@gmail.com",
+      "jobTitle": "FrontEnd Developer",
+      "twitter": "afontecha",
+      "avatarUrl": "https://www.gravatar.com/avatar/f9fa75da015769ed39a91a9518b98dd7?d=identicon",
+      "id": "mS-qdco"
     }
   ]
 }
